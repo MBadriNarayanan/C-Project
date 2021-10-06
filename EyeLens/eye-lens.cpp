@@ -90,7 +90,3 @@ void eye_lens()
 		metropia();
 		getch();
 }
-
-
-
-
